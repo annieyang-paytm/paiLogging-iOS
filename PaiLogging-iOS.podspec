@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-    s.name             = 'pai-logging-ios'
+    s.name             = 'PaiLogging-iOS'
     s.module_name      = 'PaiLogging'
     s.version          = '1.0.0'
     s.summary          = 'PAI logging SDK'
@@ -18,9 +18,10 @@ Pod::Spec.new do |s|
     s.homepage         = 'https://github.com/annieyang-paytm/paiLogging-iOS'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'Annie Yang' => 'annie.yang@paytm.com' }
-    s.source           = { :git => 'git@github.com:annieyang-paytm/paiLogging-iOS.git', :tag => s.version.to_s }
+    s.source           = { :git => 'https://github.com/annieyang-paytm/paiLogging-iOS.git', :tag => s.version.to_s }
     
+    s.vendored_frameworks = "PaiLogging.xcframework"
+    s.platform = :ios
+    s.swift_version = "5.0"
     s.ios.deployment_target = '10.0'
-    
-    s.source_files = 'LoggingSDK/**/*.swift'
 end
