@@ -1,0 +1,33 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)
+// swift-module-flags: -target x86_64-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name PaiLogging
+import Foundation
+import Swift
+import _System_Foundation
+import os
+@_hasMissingDesignatedInitializers public class PLGLogger {
+  public static var useEmojiToIndicateLoggerLevel: Swift.Bool
+  public static var isLoggingEnabled: Swift.Bool
+  public static func log(withLevel loggerLevel: PaiLogging.PLGLogger.LoggerLevel, andMessage message: Swift.String, saveToLocalFile: Swift.Bool = false, file: Swift.String = #file, function: Swift.String = #function, line: Swift.Int = #line)
+  public static func info(message: Swift.String, saveToLocalFile: Swift.Bool = false, file: Swift.String = #file, function: Swift.String = #function, line: Swift.Int = #line)
+  public static func success(message: Swift.String, saveToLocalFile: Swift.Bool = false, file: Swift.String = #file, function: Swift.String = #function, line: Swift.Int = #line)
+  public static func error(message: Swift.String, saveToLocalFile: Swift.Bool = false, file: Swift.String = #file, function: Swift.String = #function, line: Swift.Int = #line)
+  public static func critical(message: Swift.String, saveToLocalFile: Swift.Bool = true, file: Swift.String = #file, function: Swift.String = #function, line: Swift.Int = #line)
+  @objc deinit
+}
+extension PLGLogger {
+  public enum LoggerLevel : Swift.Int {
+    case info
+    case success
+    case error
+    case critical
+    public typealias RawValue = Swift.Int
+    public init?(rawValue: Swift.Int)
+    public var rawValue: Swift.Int {
+      get
+    }
+  }
+}
+extension PaiLogging.PLGLogger.LoggerLevel : Swift.Equatable {}
+extension PaiLogging.PLGLogger.LoggerLevel : Swift.Hashable {}
+extension PaiLogging.PLGLogger.LoggerLevel : Swift.RawRepresentable {}

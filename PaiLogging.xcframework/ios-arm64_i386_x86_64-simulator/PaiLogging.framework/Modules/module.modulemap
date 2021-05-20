@@ -1,0 +1,4 @@
+framework module PaiLogging {
+  header "PaiLogging-Swift.h"
+  requires objc
+}
