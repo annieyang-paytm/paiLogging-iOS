@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
     s.name             = 'PaiLogging-iOS'
     s.module_name      = 'PaiLogging'
-    s.version          = '1.0.0'
+    s.version          = '1.0.1'
     s.summary          = 'PAI logging SDK'
     s.swift_version    = '5.0'
     s.description      = <<-DESC
