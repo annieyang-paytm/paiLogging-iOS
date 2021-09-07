@@ -6,71 +6,71 @@
 	<dict>
 		<key>Headers/PaiLogging-Swift.h</key>
 		<data>
-		YRO/MotDbrp6vpUcCI7YulzEZDM=
+		Yv73lR/8fjuZCbkHgbYuExqGqTw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9nSUqmpCduelvpUZB1AEsnSt32Y=
+		NPJbgEHosx7yOnLkZYJK7oBMjIQ=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/arm.swiftdoc</key>
 		<data>
-		qUEoQ5DAI0akdNBTBn7GulKqLYE=
+		1Q6fq77bH4+MseU9OSa18Jx70E0=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/arm.swiftinterface</key>
 		<data>
-		KRD1e7oGlcRLxd8DY1/oLkmCDSo=
+		rsy328bzrP7ob7jk6ENqyXj1thw=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/arm.swiftmodule</key>
 		<data>
-		Vrh5/NoRoo/p5k2Jm00Tv/bAK/I=
+		ILQUqS4uhTZO1f2wXI6mVyvuYh4=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		PQ2GDNFR2D+1OXJUbDvpJNNY4Go=
+		CNkC5DE6dlfW2qXhIBFa5j0aCcU=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		sGnzSCdk0kALupTbu03cFKDsF6I=
+		5kKq9a8dVSX4I9z/dMcOTPawT30=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		4x8oKUnZGLhLAusNknyD1EqfmcM=
+		qUglfaZlrS76Ap82As0gJWL1t8E=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		PQ2GDNFR2D+1OXJUbDvpJNNY4Go=
+		CNkC5DE6dlfW2qXhIBFa5j0aCcU=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		sGnzSCdk0kALupTbu03cFKDsF6I=
+		5kKq9a8dVSX4I9z/dMcOTPawT30=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		4x8oKUnZGLhLAusNknyD1EqfmcM=
+		qUglfaZlrS76Ap82As0gJWL1t8E=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
-		qUEoQ5DAI0akdNBTBn7GulKqLYE=
+		1Q6fq77bH4+MseU9OSa18Jx70E0=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<data>
-		KRD1e7oGlcRLxd8DY1/oLkmCDSo=
+		rsy328bzrP7ob7jk6ENqyXj1thw=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		Vrh5/NoRoo/p5k2Jm00Tv/bAK/I=
+		ILQUqS4uhTZO1f2wXI6mVyvuYh4=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/armv7.swiftdoc</key>
 		<data>
-		qUEoQ5DAI0akdNBTBn7GulKqLYE=
+		1Q6fq77bH4+MseU9OSa18Jx70E0=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/armv7.swiftinterface</key>
 		<data>
-		KRD1e7oGlcRLxd8DY1/oLkmCDSo=
+		rsy328bzrP7ob7jk6ENqyXj1thw=
 		</data>
 		<key>Modules/PaiLogging.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		Vrh5/NoRoo/p5k2Jm00Tv/bAK/I=
+		ILQUqS4uhTZO1f2wXI6mVyvuYh4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -83,176 +83,176 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YRO/MotDbrp6vpUcCI7YulzEZDM=
+			Yv73lR/8fjuZCbkHgbYuExqGqTw=
 			</data>
 			<key>hash2</key>
 			<data>
-			qi0i6eiXngLbzqFJwFkEx5eaHAWOKslPLFgTXls2sBk=
+			CslPYciLHjuOAM0MoRRImu3Pe5mhts0/57AwhmaMels=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/arm.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qUEoQ5DAI0akdNBTBn7GulKqLYE=
+			1Q6fq77bH4+MseU9OSa18Jx70E0=
 			</data>
 			<key>hash2</key>
 			<data>
-			nNffXT8FdmhMs0IsFRIch2Yv1gBBo03Z7zDeMhIZBF4=
+			ZBfZv7EVRveAnU3nv8o2bw+AUYbX825KC9WHfbnZ8lM=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/arm.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KRD1e7oGlcRLxd8DY1/oLkmCDSo=
+			rsy328bzrP7ob7jk6ENqyXj1thw=
 			</data>
 			<key>hash2</key>
 			<data>
-			o6+gFVgz/uIsoPn8413owOh5S5A0GOHLaPgi5+KyTKw=
+			51NfCTf6UBL9A1+sefj4O+x64E1JpFPUz26MlwBUTUg=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vrh5/NoRoo/p5k2Jm00Tv/bAK/I=
+			ILQUqS4uhTZO1f2wXI6mVyvuYh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Y/QHKC44bFc4HlPRTbfADG+NjAEr0IDaNrVsLidwy4=
+			jWUYEHVWrGNY2LVsuwDDUQemSE7CcUAjUkkEZVSCWuA=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PQ2GDNFR2D+1OXJUbDvpJNNY4Go=
+			CNkC5DE6dlfW2qXhIBFa5j0aCcU=
 			</data>
 			<key>hash2</key>
 			<data>
-			72L6wVKBiwX5SVGtIXUb0oFdFeWGzb1Kl89Lu1Ron44=
+			g6XBS4RDJ7z5rKGiATJmiS6Zu3u84WCyKO4b5HeZXg4=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sGnzSCdk0kALupTbu03cFKDsF6I=
+			5kKq9a8dVSX4I9z/dMcOTPawT30=
 			</data>
 			<key>hash2</key>
 			<data>
-			77lc5g1Z9AEob26DTvcJFScavsdP2HPepKzjAUt18pY=
+			o5hOKU+k3qpJ74WYrsdrEI2T4UfjWOoK9O8rsBGA/Oc=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4x8oKUnZGLhLAusNknyD1EqfmcM=
+			qUglfaZlrS76Ap82As0gJWL1t8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			RQJ2nGUFWXs9BqUcgUSOkAjnrwelO4YI3Fy7cCD82BY=
+			9euRXEBHBo4tl+6i6kLOkUByRlHp3cxMvPvFVrrq3MI=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PQ2GDNFR2D+1OXJUbDvpJNNY4Go=
+			CNkC5DE6dlfW2qXhIBFa5j0aCcU=
 			</data>
 			<key>hash2</key>
 			<data>
-			72L6wVKBiwX5SVGtIXUb0oFdFeWGzb1Kl89Lu1Ron44=
+			g6XBS4RDJ7z5rKGiATJmiS6Zu3u84WCyKO4b5HeZXg4=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sGnzSCdk0kALupTbu03cFKDsF6I=
+			5kKq9a8dVSX4I9z/dMcOTPawT30=
 			</data>
 			<key>hash2</key>
 			<data>
-			77lc5g1Z9AEob26DTvcJFScavsdP2HPepKzjAUt18pY=
+			o5hOKU+k3qpJ74WYrsdrEI2T4UfjWOoK9O8rsBGA/Oc=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4x8oKUnZGLhLAusNknyD1EqfmcM=
+			qUglfaZlrS76Ap82As0gJWL1t8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			RQJ2nGUFWXs9BqUcgUSOkAjnrwelO4YI3Fy7cCD82BY=
+			9euRXEBHBo4tl+6i6kLOkUByRlHp3cxMvPvFVrrq3MI=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qUEoQ5DAI0akdNBTBn7GulKqLYE=
+			1Q6fq77bH4+MseU9OSa18Jx70E0=
 			</data>
 			<key>hash2</key>
 			<data>
-			nNffXT8FdmhMs0IsFRIch2Yv1gBBo03Z7zDeMhIZBF4=
+			ZBfZv7EVRveAnU3nv8o2bw+AUYbX825KC9WHfbnZ8lM=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KRD1e7oGlcRLxd8DY1/oLkmCDSo=
+			rsy328bzrP7ob7jk6ENqyXj1thw=
 			</data>
 			<key>hash2</key>
 			<data>
-			o6+gFVgz/uIsoPn8413owOh5S5A0GOHLaPgi5+KyTKw=
+			51NfCTf6UBL9A1+sefj4O+x64E1JpFPUz26MlwBUTUg=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vrh5/NoRoo/p5k2Jm00Tv/bAK/I=
+			ILQUqS4uhTZO1f2wXI6mVyvuYh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Y/QHKC44bFc4HlPRTbfADG+NjAEr0IDaNrVsLidwy4=
+			jWUYEHVWrGNY2LVsuwDDUQemSE7CcUAjUkkEZVSCWuA=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/armv7.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qUEoQ5DAI0akdNBTBn7GulKqLYE=
+			1Q6fq77bH4+MseU9OSa18Jx70E0=
 			</data>
 			<key>hash2</key>
 			<data>
-			nNffXT8FdmhMs0IsFRIch2Yv1gBBo03Z7zDeMhIZBF4=
+			ZBfZv7EVRveAnU3nv8o2bw+AUYbX825KC9WHfbnZ8lM=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/armv7.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KRD1e7oGlcRLxd8DY1/oLkmCDSo=
+			rsy328bzrP7ob7jk6ENqyXj1thw=
 			</data>
 			<key>hash2</key>
 			<data>
-			o6+gFVgz/uIsoPn8413owOh5S5A0GOHLaPgi5+KyTKw=
+			51NfCTf6UBL9A1+sefj4O+x64E1JpFPUz26MlwBUTUg=
 			</data>
 		</dict>
 		<key>Modules/PaiLogging.swiftmodule/armv7.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vrh5/NoRoo/p5k2Jm00Tv/bAK/I=
+			ILQUqS4uhTZO1f2wXI6mVyvuYh4=
 			</data>
 			<key>hash2</key>
 			<data>
-			9Y/QHKC44bFc4HlPRTbfADG+NjAEr0IDaNrVsLidwy4=
+			jWUYEHVWrGNY2LVsuwDDUQemSE7CcUAjUkkEZVSCWuA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
